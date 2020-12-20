@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Timetable>
+  <Group Info="Southern">
+    <Service id="2B47" Desc="Epsom Downs to London Victoria">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:59</Time>  <Data>Snt;CLJ11</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Time>00:04</Time>  <Data>Battersea Park</Data>  </Element>
+        <Element>  <Time>00:05</Time>  <Data>Fer;VCA4</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:01</Starttime>
+    </Service>
+    <Service id="1M51" Desc="Brighton to London Victoria">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:59</Time>  <Data>Snt;CLJ09</Data> </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;VCA2</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:02</Starttime>
+    </Service>
+  </Group>
+
+  <Group Info="South Western Railway">
+    <Service id="1D28" Desc="Dorking to London Waterloo">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:59</Time>  <Data>Snt;CLJ07</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
+        <Element>  <Time>00:05</Time>  <Data>Fer;WAT7</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:01</Starttime>
+    </Service>
+  </Group>
+</Timetable>

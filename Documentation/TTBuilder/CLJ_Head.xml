@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Timetable>
+  <TimeTableStart>12:00</TimeTableStart>
+  <Defs>
+    <Def Name="CLJ01" Data="13-26 14-26"></Def>
+    <Def Name="CLJ02" Data="13-27 14-27"></Def>
+    <Def Name="CLJ03" Data="13-28"></Def>
+    <Def Name="CLJ04" Data="13-29"></Def>
+    <Def Name="CLJ05" Data="11-34 12-34"></Def>
+    <Def Name="CLJ06" Data="11-35"></Def>
+    <Def Name="CLJ07" Data="11-36 12-36"></Def>
+    <Def Name="CLJ08" Data="11-37"></Def>
+    <Def Name="CLJ09" Data="14-39 15-39"></Def>
+    <Def Name="CLJ10" Data="14-40"></Def>
+    <Def Name="CLJ11" Data="14-41 15-41"></Def>
+    <Def Name="CLJ12" Data="14-42"></Def>
+
+    <Def Name="CYSiding" Data="16-30 17-30"></Def>
+    <Def Name="CYAOut" Data="19-31 20-31"></Def>
+    <Def Name="CYAIn" Data="19-31"></Def>
+    <Def Name="CYBOut" Data="21-32 22-32"></Def>
+    <Def Name="CYBIn" Data="21-32"></Def>
+
+    <Def Name="BRM1" Data="35-13 36-13"></Def>
+    <Def Name="BRM2" Data="35-14"></Def>
+
+    <Def Name="VCA1" Data="100-15"></Def>
+    <Def Name="VCA2" Data="100-16"></Def>
+    <Def Name="VCA3" Data="100-17 99-17"></Def>
+    <Def Name="VCA4" Data="100-18"></Def>
+    <Def Name="VCA5" Data="100-19 99-19"></Def>
+
+    <Def Name="VCB1" Data="86-36 86-37"></Def>
+    <Def Name="VCB2" Data="87-36"></Def>
+    <Def Name="VCB3" Data="88-36 88-37"></Def>
+
+    <Def Name="VCC1" Data="95-38 96-38"></Def>
+    <Def Name="VCC2" Data="95-39"></Def>
+    <Def Name="VCC3" Data="95-40"></Def>
+
+    <Def Name="DEN1" Data="107-38"></Def>
+    <Def Name="DEN2" Data="107-39 106-39"></Def>
+    <Def Name="DEN3" Data="107-40 106-40"></Def>
+    <Def Name="DEN4" Data="107-41"></Def>
+    <Def Name="DEN3" Data="107-42 106-42"></Def>
+
+    <Def Name="WAT1" Data="118-27"></Def>
+    <Def Name="WAT2" Data="118-28 117-28"></Def>
+    <Def Name="WAT3" Data="118-29"></Def>
+    <Def Name="WAT4" Data="118-30 117-30"></Def>
+    <Def Name="WAT5" Data="118-31"></Def>
+    <Def Name="WAT6" Data="118-32 117-32"></Def>
+    <Def Name="WAT7" Data="118-33"></Def>
+    <Def Name="WAT8" Data="118-34 117-34"></Def>
+  </Defs>
+</Timetable>

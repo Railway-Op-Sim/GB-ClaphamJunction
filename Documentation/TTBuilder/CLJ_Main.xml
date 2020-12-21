@@ -5,17 +5,24 @@
       <Equipment>30;169;160;119;1500</Equipment>
         <Element>  <Time>23:59</Time>  <Data>Snt;CLJ11</Data> </Element>
         <Element>  <Time>00:00</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
-        <Element>  <Time>00:04</Time>  <Time>00:04</Time>  <Data>Battersea Park</Data>  </Element>
-        <Element>  <Time>00:05</Time>  <Data>Fer;VCA4</Data>  </Element>
+        <Element>  <Time>00:03</Time>  <Time>00:03</Time>  <Data>Battersea Park</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;VCA4</Data>  </Element>
         <Element>  <Data>R;30;2;4</Data> </Element>
         <Starttime>12:01</Starttime>
     </Service>
     <Service id="1M51" Desc="Brighton to London Victoria">
       <Equipment>30;169;160;119;1500</Equipment>
         <Element>  <Time>23:59</Time>  <Data>Snt;CLJ09</Data> </Element>
-        <Element>  <Time>00:04</Time>  <Data>Fer;VCA2</Data>  </Element>
+        <Element>  <Time>00:03</Time>  <Data>Fer;VCA2</Data>  </Element>
         <Element>  <Data>R;30;2;4</Data> </Element>
         <Starttime>12:02</Starttime>
+    </Service>
+    <Service id="1W54" Desc="London Victoria to Brighton">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:58</Time>  <Data>Snt;VCA3</Data> </Element>
+        <Element>  <Time>00:01</Time>  <Data>Fer;CLJ10</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:04</Starttime>
     </Service>
   </Group>
 
@@ -24,9 +31,34 @@
       <Equipment>30;169;160;119;1500</Equipment>
         <Element>  <Time>23:59</Time>  <Data>Snt;CLJ07</Data> </Element>
         <Element>  <Time>00:00</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
-        <Element>  <Time>00:05</Time>  <Data>Fer;WAT7</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;WAT7</Data>  </Element>
         <Element>  <Data>R;30;2;4</Data> </Element>
         <Starttime>12:01</Starttime>
+    </Service>
+    <Service id="2M27" Desc="London Waterloo to Chessington South">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;WAT8</Data> </Element>
+        <Element>  <Time>23:59</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
+        <Element>  <Time>00:01</Time>  <Data>Fer;CLJ08</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:04</Starttime>
+    </Service>
+    <Service id="2M30" Desc="Chessington South to London Waterloo">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:59</Time>  <Data>Snt;CLJ07</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;WAT7</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:05</Starttime>
+    </Service>
+    <Service id="2K23" Desc="London Waterloo to London Waterloo">
+      <Equipment>30;169;160;119;1500</Equipment>
+        <Element>  <Time>23:59</Time>  <Data>Snt;CLJ01</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Time>00:00</Time>  <Data>Clapham Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time>  <Time>00:03</Time>  <Data>Queenstown Road</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;WAT1</Data>  </Element>
+        <Element>  <Data>R;30;2;4</Data> </Element>
+        <Starttime>12:05</Starttime>
     </Service>
   </Group>
 </Timetable>

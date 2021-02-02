@@ -20,7 +20,7 @@ However, the number of lines go down to three just West of Queenstown Road stati
 
 Services from Waterloo enter on two tracks, and remain separate all the way to the exit point.
 
-Therefore, only platforms 1 and 3 at Queenstown Road are used.
+Therefore, only platforms 1 and 3 at Queenstown Road are used for the slow stopping services.
 
 ### Useful Tips for Operation
 

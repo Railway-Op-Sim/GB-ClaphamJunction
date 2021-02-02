@@ -18,7 +18,7 @@ It should be noted that the Reading services, those using platforms 3 to 6, requ
 
 However, the number of lines go down to three just West of Queenstown Road station. I have designed the timetable such that the London-bound services merge onto one track through Queenstown Road (through platform 1), and continue to the North-most exit point towards Waterloo.
 
-Services from Waterloo enter on two tracks, and remain separate all the way to the exit point.
+Services from Waterloo enter on a single track and will require sorting onto the slow outer lines, or the fast inner lines.
 
 Therefore, only platforms 1 and 3 at Queenstown Road are used for the slow stopping services.
 
